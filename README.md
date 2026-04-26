@@ -18,7 +18,7 @@
   Develop embedded systems for robotics. Proficient in **EtherCAT**, **CAN/FDCAN**, **Modbus** for real-time motion control and industrial bus communication.
 
 - 💻 **Embedded & Simulation Validation**   
-  ROS/ROS2-based robot system integration and development. KetenBieberSkilled in **Gazebo** / **RViz** simulation, algorithm validation, and sim-to-real deployment.
+  ROS/ROS2-based robot system integration and development. Skilled in **Gazebo** / **RViz** simulation, algorithm validation, and sim-to-real deployment.
 
 ---  
 
