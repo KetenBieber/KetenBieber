@@ -1,7 +1,5 @@
-<div align="center">
-<img align="left" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=4000&pause=300&color=61AFEF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=Hi,+I'm+Keten;I+aspire+to+become+a+modern+robotics+engineer" width="75%" />
-<br><br>
-
+<div align="right">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=38&duration=4000&pause=300&color=61AFEF&vCenter=true&multiline=true&repeat=false&width=1100&height=110&lines=Hi,+I'm+Keten;I+aspire+to+become+a+modern+robotics+engineer" width="80%" />
 </div>
 
 ---  
