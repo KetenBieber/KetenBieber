@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=46&duration=4000&pause=300&color=61AFEF&multiline=true&repeat=false&width=1000&height=130&lines=Hi,+I'm+Keten;I+aspire+to+become+a+modern+robotics+engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=52&duration=3500&pause=120&color=61AFEF&multiline=true&repeat=false&width=1250&height=180&lines=Hi,+I'm+Keten;I+aspire+to+become+a+modern+robotics+engineer" />
 </div>
-
 
 ---  
 
