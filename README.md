@@ -54,9 +54,8 @@
 
 ---  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KetenBieber&left_color=green&right_color=red)
-
-
+😄 Welcome to star, fork and discuss all projects.  
+💬 Any technical communication & collaboration is appreciated.
 
 <!--
 **KetenBieber/KetenBieber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
