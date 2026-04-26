@@ -1,8 +1,10 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=4000&pause=300&color=61AFEF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=Hi,+I'm+Keten;I+aspire+to+become+a+modern+robotics+engineer" width="75%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=4000&pause=300&color=61AFEF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=Hi,+I'm+Keten;I+aspire+to+become+a+modern+robotics+engineer" width="75%" />
 <br><br>
 
 </div>
+
+---
 
 #### 🚀 Research Focus  
 - 🧠 **Deep Reinforcement Learning & Embodied AI**
@@ -36,7 +38,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
+---
 
 #### 📊 GitHub Analytics  
 <div align="center">
@@ -44,10 +46,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetenBieber&theme=blueberry&layout=compact&card_width=320&langs_count=6" alt="Top Languages" />
 </div>
 
+
+---
 <p align="center">
   <img src="https://profile-counter.glitch.me/KetenBieber/count.svg?theme=blue" alt="Visitor Count" />
-  <br>
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="Coding Animation" />
 </p>
 
 
