@@ -1,6 +1,14 @@
+
+# 👋👋👋 Hi there
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3200&pause=80&color=61AFEF&multiline=true&repeat=false&width=1150&height=150&lines=Hi,+I'm+Keten;I+aspire+to+become+a+modern+robotics+engineer" />
 </div>
+
+---
+
+#### 🌐 Connect With Me
+
+--- 
 
 #### 🚀 Research Focus  
 - 🧠 **Deep Reinforcement Learning & Embodied AI**  
