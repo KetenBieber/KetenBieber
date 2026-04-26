@@ -7,17 +7,17 @@
 ---
 
 #### 🚀 Research Focus  
-- 🧠 **Deep Reinforcement Learning & Embodied AI**
+- 🧠 **Deep Reinforcement Learning & Embodied AI**  
   Research on deep RL and embodied intelligence. Focus on generalized robot decision-making, policy learning, and the path to **embodied AGI**.
   
-- 🛠️ **Embedded Hardware & Firmware Development**
+- 🛠️ **Embedded Hardware & Firmware Development**  
   Develop embedded systems for robotics. Proficient in **EtherCAT**, **CAN/FDCAN**, **Modbus** for real-time motion control and industrial bus communication.
 
-- 💻 **Embedded & Simulation Validation** 
+- 💻 **Embedded & Simulation Validation**   
   ROS/ROS2-based robot system integration and development. Skilled in **Gazebo** / **RViz** simulation, algorithm validation, and sim-to-real deployment.
 
-
 ---
+
 
 #### 🛠️ Tech Stack  
 <p align="left">
@@ -49,7 +49,7 @@
 
 ---
 <p align="center">
-  <img src="https://profile-counter.glitch.me/KetenBieber/count.svg?theme=blue" alt="Visitor Count" />
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 </p>
 
 
