@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello+hello;I'm+Keten%2C+and+I+aspire+to+become+a+professional+modern+robotics+ engineer" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=32&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=Hi,+I'm+Keten;Building+toward+a+modern+robotics+engineer" width="75%" />
 <br><br>
 
 </div>
